@@ -5,9 +5,10 @@ public class JMPlayer {
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("zweite Ã¤nderung");
-		System.out.println("Änderung Flo :D");
-		System.out.println("Noch eine Änderung");
-		System.out.println("Und noch eine Änderung");
+		System.out.println("ï¿½nderung Flo :D");
+		System.out.println("Noch eine ï¿½nderung");
+		System.out.println("Und noch eine ï¿½nderung");
+		System.out.println("WeiÃŸt du was auch witzig ist, dass dein textfiles nen anderen Unicode verwenden --> Ã¶Ã¤Ã¼");
 
 	}
 
