@@ -7,6 +7,7 @@ public class JMPlayer {
 		System.out.println("zweite Ã¤nderung");
 		System.out.println("Änderung Flo :D");
 		System.out.println("Noch eine Änderung");
+		System.out.println("Und noch eine Änderung");
 
 	}
 
