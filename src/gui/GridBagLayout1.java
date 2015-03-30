@@ -24,8 +24,8 @@ public void init() {
   
   c.fill = GridBagConstraints.BOTH;   // wie Komponente Bereich füllen soll
   c.weightx = 10;                     // Breite
-  c.weighty = 10;                    // Höhe
-  c.insets = new Insets(10,10,10,10);   // Abstände definieren
+  c.weighty = 400;                    // Höhe
+  c.insets = new Insets(20,20,20,20);   // Abstände definieren
 
   int i = 1;
   for (int z = 0; z<10;z++){
