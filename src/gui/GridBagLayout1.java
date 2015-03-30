@@ -1,5 +1,5 @@
 package gui;
-
+//Dein Kommentar ist Scheiße
 
 import java.applet.Applet;
 import java.awt.Button;
